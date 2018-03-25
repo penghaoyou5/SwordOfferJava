@@ -14,6 +14,11 @@ public class aaSIngletonTest   {
 
     public void testSingleton(){
         Singleton singleton3 = null;
+        Singleton.testClassLoad();
+
+        StringBuffer sb = new StringBuffer();
+        sb.append(100);
+
 //        Singleton singleton = Singleton.getInstance();
 //        Singleton singleton2 = Singleton.getInstance();
     }

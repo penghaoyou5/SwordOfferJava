@@ -66,7 +66,7 @@ public class _07_RebuildBinaryTree {
         //遍历二叉树中序结果 找到位置值分开左右两部分
         int leftLength = 0;
         for(int tmpInStartPos = inStartPos;tmpInStartPos<=inEndPos;tmpInStartPos++){
-            if (rootNode.value == inOrder[tmpInStartPos]){
+            if ((Integer)rootNode.value == inOrder[tmpInStartPos]){
                 break;
             }
             leftLength++;

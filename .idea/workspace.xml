@@ -2,24 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="494c84a7-f62c-4da6-a7c2-98d4961f0541" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/_02_Singleton/Singleton.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/_03_FindRepetition/_1FindRepetionInArray.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/_03_FindRepetition/_2FindRepetitionlnArray.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/_04_FindInSortedMatrix/FindInSortedMatrix.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/_05_ReplaceSpace.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/_06_SingleLinkReversePrint.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/_07_RebuildBinaryTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/BinaryTreeNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/LinkSingleNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/utils/SOPrintUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/_00_测试用例说明" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/_03_FindRepetionTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/aaSIngletonTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构和算法/01时间复杂度 空间复杂度概念.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构和算法/02二叉树与二叉搜索树" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/_08_NextINBinaryTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/_09_QueueWithTwoStacks.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/_10_Fibonacci.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/_11_MinNumberInRotatedArray.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/_11_sortPartition.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/_12_backtracking.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/_13_RobotMovingCount.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/_14_CuttingRope.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/_15_NumberOf1InBinary.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/_16_Power.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/_17_Print1ToNDIgits.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/_18_01_DeleteNodeInList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/_18_02_DeleteDuplicatedNode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/_21_ReorderArray.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构和算法/03动态规划和贪婪算法" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构和算法/04位运算" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构和算法/05_3.2代码的规范性" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_02_Singleton/Singleton.java" afterPath="$PROJECT_DIR$/src/main/java/_02_Singleton/Singleton.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_07_RebuildBinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/_07_RebuildBinaryTree.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/BinaryTreeNode.java" afterPath="$PROJECT_DIR$/src/main/java/domain/BinaryTreeNode.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/SOPrintUtil.java" afterPath="$PROJECT_DIR$/src/main/java/utils/SOPrintUtil.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/aaSIngletonTest.java" afterPath="$PROJECT_DIR$/src/test/java/aaSIngletonTest.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/_02_Singleton/Singleton$Nested.class" afterPath="$PROJECT_DIR$/target/classes/_02_Singleton/Singleton$Nested.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/_02_Singleton/Singleton.class" afterPath="$PROJECT_DIR$/target/classes/_02_Singleton/Singleton.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/_07_RebuildBinaryTree.class" afterPath="$PROJECT_DIR$/target/classes/_07_RebuildBinaryTree.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/BinaryTreeNode.class" afterPath="$PROJECT_DIR$/target/classes/domain/BinaryTreeNode.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/SOPrintUtil.class" afterPath="$PROJECT_DIR$/target/classes/utils/SOPrintUtil.class" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/aaSIngletonTest.class" afterPath="$PROJECT_DIR$/target/test-classes/aaSIngletonTest.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,118 +56,108 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_05_ReplaceSpace.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_05_ReplaceSpace.java">
+      <file leaf-file-name="_18_01_DeleteNodeInList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_18_01_DeleteNodeInList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-504">
-              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            <state relative-caret-position="90">
+              <caret line="7" column="16" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="10" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_06_SingleLinkReversePrint.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_06_SingleLinkReversePrint.java">
+      <file leaf-file-name="_18_02_DeleteDuplicatedNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_18_02_DeleteDuplicatedNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_21_ReorderArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_21_ReorderArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#738#754#0" expanded="true" />
+                <element signature="e#1155#1156#0" expanded="true" />
+                <element signature="e#1191#1192#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_07_RebuildBinaryTree.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_07_RebuildBinaryTree.java">
+      <file leaf-file-name="StringBuffer.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/StringBuffer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="75" column="18" lean-forward="true" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
+            <state relative-caret-position="212">
+              <caret line="387" column="18" lean-forward="false" selection-start-line="387" selection-start-column="18" selection-end-line="387" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractStringBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="123" column="29" lean-forward="true" selection-start-line="123" selection-start-column="29" selection-end-line="123" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aaSIngletonTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/aaSIngletonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_15_NumberOf1InBinary.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_15_NumberOf1InBinary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Arrays.java" pinned="false" current-in-tab="true">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="3335" column="5" lean-forward="true" selection-start-line="3335" selection-start-column="5" selection-end-line="3335" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_16_Power.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_16_Power.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="36" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_17_Print1ToNDIgits.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_17_Print1ToNDIgits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="32" column="23" lean-forward="false" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryTreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/domain/BinaryTreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="01时间复杂度 空间复杂度概念.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据结构和算法/01时间复杂度 空间复杂度概念.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="225">
-                <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="02二叉树与二叉搜索树" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据结构和算法/02二叉树与二叉搜索树">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_03_FindRepetionTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/_03_FindRepetionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinkSingleNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/domain/LinkSingleNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-              <folding>
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#224#225#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="236" column="5" lean-forward="false" selection-start-line="236" selection-start-column="5" selection-end-line="236" selection-end-column="5" />
-              <folding>
-                <element signature="e#10065#10066#0" expanded="true" />
-                <element signature="e#10148#10149#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Matcher.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/regex/Matcher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="948" column="18" lean-forward="false" selection-start-line="948" selection-start-column="18" selection-end-line="948" selection-end-column="18" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -180,18 +182,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/aaSingleton/Singleton.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/_01_Singleton/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/_02_Singleton/Singleton.java" />
         <option value="$PROJECT_DIR$/数据结构和算法/01时间复杂度 空间复杂度概念" />
         <option value="$PROJECT_DIR$/数据结构和算法/01时间复杂度 空间复杂度概念.md" />
-        <option value="$PROJECT_DIR$/src/test/java/aaSIngletonTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/_00_测试用例说明" />
         <option value="$PROJECT_DIR$/src/test/java/_03_FindRepetionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/utils/PrintUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/utils/SOPrintUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/_03_FindRepetition/_1FindRepetionInArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/_03_FindRepetition/_2FindRepetitionlnArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/_04_FindInSortedMatrix/FindInSortedMatrix.java" />
@@ -200,8 +198,32 @@
         <option value="$PROJECT_DIR$/src/main/java/domain/LinkSingleNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/_06_SingleLinkReversePrint.java" />
         <option value="$PROJECT_DIR$/数据结构和算法/02二叉树与二叉搜索树" />
-        <option value="$PROJECT_DIR$/src/main/java/domain/BinaryTreeNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/_07_RebuildBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/BinaryTreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_08_NextINBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_09_QueueWithTwoStacks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_10_Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_11_sortPartition.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/_11_MinNumberInRotatedArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_12_backtracking.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_RobotMovingCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_12_RobotMovingCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/SOPrintUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_13_RobotMovingCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_14_CuttingRope.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_15_NumberOf1InBinary.java" />
+        <option value="$PROJECT_DIR$/数据结构和算法/04位运算" />
+        <option value="$PROJECT_DIR$/数据结构和算法/03动态规划和贪婪算法" />
+        <option value="$PROJECT_DIR$/数据结构和算法/04_3.2代码的规范性" />
+        <option value="$PROJECT_DIR$/数据结构和算法/05_3.2代码的规范性" />
+        <option value="$PROJECT_DIR$/src/main/java/_17_Print1ToNDIgits.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_18_01_DeleteNodeInList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_18_02_DeleteDuplicatedNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_21_ReorderArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_02_Singleton/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_16_Power.java" />
+        <option value="$PROJECT_DIR$/src/test/java/aaSIngletonTest.java" />
       </list>
     </option>
   </component>
@@ -232,9 +254,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="709" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -273,45 +296,6 @@
               <item name="SwordOfferJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="SwordOfferJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SwordOfferJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SwordOfferJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="_02_Singleton" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SwordOfferJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SwordOfferJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="_03_FindRepetition" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SwordOfferJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SwordOfferJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="_04_FindInSortedMatrix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SwordOfferJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SwordOfferJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SwordOfferJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SwordOfferJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -320,16 +304,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SwordOfferJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SwordOfferJava" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SwordOfferJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SwordOfferJava" type="462c0819:PsiDirectoryNode" />
-              <item name="数据结构和算法" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SwordOfferJava" type="b2602c69:ProjectViewProjectNode" />
@@ -339,10 +313,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -355,6 +329,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/penghaoyou/SwordOffer/SwordOfferJava/src/main/java/_05_ReplaceSpace.java" />
+    <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -373,7 +348,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._07_RebuildBinaryTree">
+  <component name="RunManager" selected="Application._16_Power">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -381,28 +356,9 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="FindInSortedMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="_04_FindInSortedMatrix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="_04_FindInSortedMatrix.FindInSortedMatrix" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SwordOfferJava" />
-      <envs />
-    </configuration>
-    <configuration name="_05_ReplaceSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="_16_Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="_05_ReplaceSpace" />
+      <option name="MAIN_CLASS_NAME" value="_16_Power" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -414,9 +370,9 @@
       <module name="SwordOfferJava" />
       <envs />
     </configuration>
-    <configuration name="_06_SingleLinkReversePrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="_17_Print1ToNDIgits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="_06_SingleLinkReversePrint" />
+      <option name="MAIN_CLASS_NAME" value="_17_Print1ToNDIgits" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -428,9 +384,9 @@
       <module name="SwordOfferJava" />
       <envs />
     </configuration>
-    <configuration name="_07_RebuildBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="_18_01_DeleteNodeInList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="_07_RebuildBinaryTree" />
+      <option name="MAIN_CLASS_NAME" value="_18_01_DeleteNodeInList" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -442,14 +398,9 @@
       <module name="SwordOfferJava" />
       <envs />
     </configuration>
-    <configuration name="_2FindRepetitionlnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="_03_FindRepetition.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="_03_FindRepetition._2FindRepetitionlnArray" />
+    <configuration name="_21_ReorderArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="_21_ReorderArray" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -473,6 +424,20 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="aaSIngletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="aaSIngletonTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SwordOfferJava" />
       <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -536,19 +501,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application._2FindRepetitionlnArray" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FindInSortedMatrix" />
-      <item index="2" class="java.lang.String" itemvalue="Application._05_ReplaceSpace" />
-      <item index="3" class="java.lang.String" itemvalue="Application._06_SingleLinkReversePrint" />
-      <item index="4" class="java.lang.String" itemvalue="Application._07_RebuildBinaryTree" />
+      <item index="0" class="java.lang.String" itemvalue="Application._16_Power" />
+      <item index="1" class="java.lang.String" itemvalue="Application._17_Print1ToNDIgits" />
+      <item index="2" class="java.lang.String" itemvalue="Application._18_01_DeleteNodeInList" />
+      <item index="3" class="java.lang.String" itemvalue="Application._21_ReorderArray" />
+      <item index="4" class="java.lang.String" itemvalue="Application.aaSIngletonTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application._07_RebuildBinaryTree" />
-        <item index="1" class="java.lang.String" itemvalue="Application._06_SingleLinkReversePrint" />
-        <item index="2" class="java.lang.String" itemvalue="Application._05_ReplaceSpace" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FindInSortedMatrix" />
-        <item index="4" class="java.lang.String" itemvalue="Application._2FindRepetitionlnArray" />
+        <item index="0" class="java.lang.String" itemvalue="Application._16_Power" />
+        <item index="1" class="java.lang.String" itemvalue="Application.aaSIngletonTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application._21_ReorderArray" />
+        <item index="3" class="java.lang.String" itemvalue="Application._18_01_DeleteNodeInList" />
+        <item index="4" class="java.lang.String" itemvalue="Application._17_Print1ToNDIgits" />
       </list>
     </recent_temporary>
   </component>
@@ -572,46 +537,77 @@
       <updated>1521244342337</updated>
       <workItem from="1521244347843" duration="110000" />
       <workItem from="1521244724597" duration="833000" />
-      <workItem from="1521247217819" duration="27783000" />
+      <workItem from="1521247217819" duration="68477000" />
+      <workItem from="1521695523621" duration="5720000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28726000" />
+    <option name="totallyTimeSpent" value="75140000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32736155" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06677525" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20678514" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32462174" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32462174" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32462174" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -652,8 +648,92 @@
           <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_08_NextINBinaryTree.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_08_NextINBinaryTree.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_09_QueueWithTwoStacks.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_10_Fibonacci.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_10_Fibonacci.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_11_MinNumberInRotatedArray.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_11_MinNumberInRotatedArray.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_12_backtracking.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_13_RobotMovingCount.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_16_Power.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_17_Print1ToNDIgits.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_17_Print1ToNDIgits.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_21_ReorderArray.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_02_Singleton/Singleton.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="16" />
+      <option name="time" value="33" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -682,7 +762,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="39" lean-forward="true" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -690,7 +769,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="32" column="34" lean-forward="true" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -698,7 +776,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="86">
           <caret line="35" column="32" lean-forward="false" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -710,105 +787,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="360">
-            <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/junit/framework/TestCase.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <marker date="1521260084000" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1521260084000" expanded="false" signature="139:251" ph="..." />
-            <marker date="1521260084000" expanded="false" signature="365:376" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="394:400" ph=" }" />
-            <marker date="1521260084000" expanded="false" signature="434:445" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="463:469" ph=" }" />
-            <marker date="1521260084000" expanded="false" signature="502:513" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="522:528" ph=" }" />
-            <marker date="1521260084000" expanded="false" signature="569:580" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="604:610" ph=" }" />
-            <marker date="1521260084000" expanded="true" signature="640:745" ph="{...}" />
-            <marker date="1521260084000" expanded="false" signature="785:796" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="813:819" ph=" }" />
-            <marker date="1521260084000" expanded="true" signature="864:1346" ph="{...}" />
-            <marker date="1521260084000" expanded="true" signature="1394:2155" ph="{...}" />
-            <marker date="1521260084000" expanded="false" signature="2225:2236" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="2274:2280" ph=" }" />
-            <marker date="1521260084000" expanded="false" signature="2334:2345" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="2374:2380" ph=" }" />
-            <marker date="1521260084000" expanded="false" signature="2451:2462" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="2501:2507" ph=" }" />
-            <marker date="1521260084000" expanded="false" signature="2562:2573" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="2603:2609" ph=" }" />
-            <marker date="1521260084000" expanded="false" signature="2654:2665" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="2686:2692" ph=" }" />
-            <marker date="1521260084000" expanded="false" signature="2723:2734" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="2748:2754" ph=" }" />
-            <marker date="1521260084000" expanded="true" signature="2840:2903" ph="{...}" />
-            <marker date="1521260084000" expanded="false" signature="2972:2983" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="3021:3027" ph=" }" />
-            <marker date="1521260084000" expanded="true" signature="3113:3176" ph="{...}" />
-            <marker date="1521260084000" expanded="false" signature="3245:3256" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="3294:3300" ph=" }" />
-            <marker date="1521260084000" expanded="true" signature="3400:3470" ph="{...}" />
-            <marker date="1521260084000" expanded="true" signature="3554:3615" ph="{...}" />
-            <marker date="1521260084000" expanded="true" signature="3712:3782" ph="{...}" />
-            <marker date="1521260084000" expanded="true" signature="3863:3924" ph="{...}" />
-            <marker date="1521260084000" expanded="true" signature="4006:4069" ph="{...}" />
-            <marker date="1521260084000" expanded="false" signature="4134:4145" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="4183:4189" ph=" }" />
-            <marker date="1521260084000" expanded="true" signature="4277:4340" ph="{...}" />
-            <marker date="1521260084000" expanded="false" signature="4411:4422" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="4460:4466" ph=" }" />
-            <marker date="1521260084000" expanded="true" signature="4548:4611" ph="{...}" />
-            <marker date="1521260084000" expanded="false" signature="4676:4687" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="4725:4731" ph=" }" />
-            <marker date="1521260084000" expanded="true" signature="4813:4876" ph="{...}" />
-            <marker date="1521260084000" expanded="false" signature="4941:4952" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="4990:4996" ph=" }" />
-            <marker date="1521260084000" expanded="true" signature="5080:5143" ph="{...}" />
-            <marker date="1521260084000" expanded="false" signature="5210:5221" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="5259:5265" ph=" }" />
-            <marker date="1521260084000" expanded="true" signature="5345:5408" ph="{...}" />
-            <marker date="1521260084000" expanded="false" signature="5471:5482" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="5520:5526" ph=" }" />
-            <marker date="1521260084000" expanded="false" signature="5579:5590" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="5619:5625" ph=" }" />
-            <marker date="1521260084000" expanded="false" signature="5694:5705" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="5743:5749" ph=" }" />
-            <marker date="1521260084000" expanded="false" signature="5799:5810" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="5836:5842" ph=" }" />
-            <marker date="1521260084000" expanded="false" signature="5908:5919" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="5954:5960" ph=" }" />
-            <marker date="1521260084000" expanded="true" signature="6044:6105" ph="{...}" />
-            <marker date="1521260084000" expanded="false" signature="6172:6183" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="6219:6225" ph=" }" />
-            <marker date="1521260084000" expanded="true" signature="6312:6376" ph="{...}" />
-            <marker date="1521260084000" expanded="false" signature="6446:6457" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="6496:6502" ph=" }" />
-            <marker date="1521260084000" expanded="false" signature="6551:6562" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="6587:6593" ph=" }" />
-            <marker date="1521260084000" expanded="true" signature="6678:6740" ph="{...}" />
-            <marker date="1521260084000" expanded="true" signature="6827:6891" ph="{...}" />
-            <marker date="1521260084000" expanded="true" signature="6973:7037" ph="{...}" />
-            <marker date="1521260084000" expanded="true" signature="7083:7090" ph="{}" />
-            <marker date="1521260084000" expanded="true" signature="7139:7146" ph="{}" />
-            <marker date="1521260084000" expanded="false" signature="7176:7187" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="7249:7255" ph=" }" />
-            <marker date="1521260084000" expanded="false" signature="7284:7295" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="7313:7319" ph=" }" />
-            <marker date="1521260084000" expanded="false" signature="7357:7368" ph=" { " />
-            <marker date="1521260084000" expanded="false" signature="7386:7392" ph=" }" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -816,20 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4617">
           <caret line="84" column="7" lean-forward="false" selection-start-line="84" selection-start-column="7" selection-end-line="84" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/aaSIngletonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#108#109#0" expanded="false" />
-            <element signature="e#156#157#0" expanded="false" />
-            <element signature="e#179#180#0" expanded="false" />
-            <element signature="e#210#211#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -837,44 +805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/_02_Singleton/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#98#99#0" expanded="false" />
-            <element signature="e#140#141#0" expanded="false" />
-            <element signature="e#185#186#0" expanded="false" />
-            <element signature="e#224#225#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/_03_FindRepetition/_1FindRepetionInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="9" lean-forward="true" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/utils/SOPrintUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/_03_FindRepetition/_2FindRepetitionlnArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -890,10 +820,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
           <caret line="1085" column="19" lean-forward="false" selection-start-line="1085" selection-start-column="19" selection-end-line="1085" selection-end-column="19" />
-          <folding>
-            <element signature="e#48487#48488#0" expanded="false" />
-            <element signature="e#48531#48532#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -909,7 +835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
           <caret line="948" column="18" lean-forward="false" selection-start-line="948" selection-start-column="18" selection-end-line="948" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -918,21 +843,8 @@
         <state relative-caret-position="184">
           <caret line="236" column="5" lean-forward="false" selection-start-line="236" selection-start-column="5" selection-end-line="236" selection-end-column="5" />
           <folding>
-            <element signature="e#10065#10066#0" expanded="true" />
-            <element signature="e#10148#10149#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/domain/LinkSingleNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#10065#10066#0" expanded="false" />
+            <element signature="e#10148#10149#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -953,26 +865,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构和算法/02二叉树与二叉搜索树">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/数据结构和算法/01时间复杂度 空间复杂度概念.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="225">
             <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -980,30 +882,303 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/_06_SingleLinkReversePrint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        <state relative-caret-position="-108">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#738#754#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#738#754#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/domain/BinaryTreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <element signature="e#207#208#0" expanded="false" />
+            <element signature="e#241#242#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_10_Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2857">
+          <caret line="76" column="6" lean-forward="false" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="264">
+            <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="681" column="16" lean-forward="false" selection-start-line="681" selection-start-column="16" selection-end-line="681" selection-end-column="16" />
+          <folding>
+            <element signature="e#23994#23995#0" expanded="false" />
+            <element signature="e#24036#24037#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_11_MinNumberInRotatedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/SOPrintUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="28" column="38" lean-forward="false" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构和算法/02二叉树与二叉搜索树">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构和算法/03动态规划和贪婪算法">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构和算法/04位运算">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_14_CuttingRope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1074">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="1181" column="22" lean-forward="false" selection-start-line="1181" selection-start-column="22" selection-end-line="1181" selection-end-column="22" />
+          <folding>
+            <element signature="e#46227#46228#0" expanded="false" />
+            <element signature="e#46266#46267#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构和算法/05_3.2代码的规范性">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/LinkSingleNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="e#138#139#0" expanded="false" />
+            <element signature="e#172#173#0" expanded="false" />
+            <element signature="e#224#225#0" expanded="false" />
+            <element signature="e#286#287#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_02_Singleton/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#125#126#0" expanded="false" />
+            <element signature="e#167#168#0" expanded="false" />
+            <element signature="e#208#209#0" expanded="false" />
+            <element signature="e#262#263#0" expanded="false" />
+            <element signature="e#307#308#0" expanded="false" />
+            <element signature="e#346#347#0" expanded="false" />
+            <element signature="e#391#392#0" expanded="false" />
+            <element signature="e#451#452#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_03_FindRepetition/_1FindRepetionInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="11" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_03_FindRepetition/_2FindRepetitionlnArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="15" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/_07_RebuildBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="75" column="18" lean-forward="true" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
+        <state relative-caret-position="90">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="10" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_08_NextINBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_09_QueueWithTwoStacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_11_sortPartition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_12_backtracking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="76" column="23" lean-forward="true" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_13_RobotMovingCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_15_NumberOf1InBinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_16_Power.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="36" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_17_Print1ToNDIgits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="32" column="23" lean-forward="false" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_18_01_DeleteNodeInList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_18_02_DeleteDuplicatedNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_21_ReorderArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="e#1155#1156#0" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/aaSIngletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="387" column="18" lean-forward="false" selection-start-line="387" selection-start-column="18" selection-end-line="387" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="123" column="29" lean-forward="true" selection-start-line="123" selection-start-column="29" selection-end-line="123" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="3335" column="5" lean-forward="true" selection-start-line="3335" selection-start-column="5" selection-end-line="3335" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
